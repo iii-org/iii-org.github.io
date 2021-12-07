@@ -1,7 +1,6 @@
 ## Welcome to III Open Source Project Pages
 
 ### III DevOps
-<img src="https://www.iiidevops.org/wp-content/uploads/2021/01/IIIDevOps-logo-01-02%E9%BB%91-1.png" alt="III DevOps Logo" style="zoom:50%;float:right" />
 DevOps 整合工具 - CI / CD 持續整合、持續佈署　自動化工具整合平台
 
 For more details see **[III DevOps main page](https://www.iiidevops.org)**.

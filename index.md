@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to III Open Source Project Pages
 
-You can use the [editor on GitHub](https://github.com/iii-org/iii-org.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### III DevOps
+DevOps 整合工具 - CI / CD 持續整合、持續佈署　自動化工具整合平台
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For more details see [III DevOps main page](https://www.iiidevops.org).
 
-### Markdown
+### SCP Monitor
+串流模式安心讀檔
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For more details see [SCP (Secure Copy) MONITOR main page](https://iii-org.github.io/scp-monitor).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### About III
+Institute for Information Industry(III) was established in 1979 as a Non-Governmental Organization (NGO) through the joint efforts of public and private sectors, to support the development/applications of the information industry as well as the information society in Taiwan under the supervision of the Republic of China Ministry of Economic Affairs. III has international partnership with InBIA, IEEE and Cisco Networking Academy by offering educations in Taiwan.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iii-org/iii-org.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more details see [III main page](https://www.iii.org.tw).
